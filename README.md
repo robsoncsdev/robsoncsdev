@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @robsoncsdev
+- 👀 I’m interested in development with C#
+- 🌱 I’m currently learning C#,.NET
